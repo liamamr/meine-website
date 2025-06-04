@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meine Website</title>
-</head>
-<body>
-  <h1>Willkommen auf meiner Website!</h1>
-  <p>Das ist die Startseite. Bald kommt mehr 😎</p>
-</body>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Liam Amiri's Portfolio</title>
+  </head>
+  <body>
+    <h1>Liam Amiri</h1>
+    <p>Willkommen auf meiner Website!</p>
+  </body>
 </html>
